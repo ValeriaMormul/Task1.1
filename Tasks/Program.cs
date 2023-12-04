@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Виводить числа з консолі
-        Console.Write("12"); //Надала random значення "12"
+        Console.Write("Введіть значення:");
         int number1 = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("56"); //Надала рандомне значення "56"
